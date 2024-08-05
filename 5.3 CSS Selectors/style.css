@@ -1,0 +1,25 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p{
+  color: rgb(248, 12, 12);
+
+}
+
+.note {
+  font-size: 28px;
+}
+
+li[value="3"]{
+  color: rgb(225, 20, 228);
+}
+li[value="5"]{
+  color: rgb(0, 170, 11);
+}
+ *{
+  text-align: center;
+}
